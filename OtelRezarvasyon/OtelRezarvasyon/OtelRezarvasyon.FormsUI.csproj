@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UserSecretsId>391b1a15-628e-4fff-a581-691c715e754a</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OtelRezarvasyon.Business\OtelRezarvasyon.Business.csproj" />
+    <ProjectReference Include="..\OtelRezarvasyon.DataAccess\OtelRezarvasyon.DataAccess.csproj" />
+    <ProjectReference Include="..\OtelRezarvasyon.Entities\OtelRezarvasyon.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

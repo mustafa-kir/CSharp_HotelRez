@@ -1,0 +1,14 @@
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\obj\Debug\OtelRezarvasyon.DataAccess.csproj.AssemblyReference.cache
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\obj\Debug\OtelRezarvasyon.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\bin\Debug\OtelRezarvasyon.DataAccess.dll.config
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\bin\Debug\OtelRezarvasyon.DataAccess.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\bin\Debug\OtelRezarvasyon.DataAccess.pdb
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\bin\Debug\OtelRezarvasyon.Entities.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\bin\Debug\OtelRezarvasyon.Entities.pdb
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\obj\Debug\OtelRezarvasyon.DataAccess.csproj.CopyComplete
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\obj\Debug\OtelRezarvasyon.DataAccess.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.DataAccess\obj\Debug\OtelRezarvasyon.DataAccess.pdb

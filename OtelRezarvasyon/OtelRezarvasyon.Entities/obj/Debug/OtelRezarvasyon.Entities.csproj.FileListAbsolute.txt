@@ -1,0 +1,6 @@
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.Entities\bin\Debug\OtelRezarvasyon.Entities.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.Entities\bin\Debug\OtelRezarvasyon.Entities.pdb
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.Entities\obj\Debug\OtelRezarvasyon.Entities.csproj.AssemblyReference.cache
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.Entities\obj\Debug\OtelRezarvasyon.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.Entities\obj\Debug\OtelRezarvasyon.Entities.dll
+C:\Users\bekir\OneDrive\Masaüstü\PROGRAMLAMA\mustafa_kir_h\C_Sharp\PROJELER\1.Proje Otel Rezarvayon\OtelRezarvasyon\OtelRezarvasyon.Entities\obj\Debug\OtelRezarvasyon.Entities.pdb
